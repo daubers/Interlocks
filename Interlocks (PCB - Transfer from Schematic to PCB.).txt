@@ -1,0 +1,15 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report File    : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks (PCB - Transfer from Schematic to PCB.).txt
+Report Written : Friday, March 07, 2014
+Design Path    : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks.pcb
+Design Title   : 
+Created        : 07/03/2014 22:49:10
+Last Saved     : 07/03/2014 22:49:35
+Editing Time   : 0 min
+Units          : thou (precision 0)
+
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

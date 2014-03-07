@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks (PCB - Schematic and PCB Check Report).txt
+Report Written : Friday, March 07, 2014
+Project Path   : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks.prj
+Design Path    : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks.pcb
+Design Title   : 
+Created        : 07/03/2014 22:32:15
+Last Saved     : 07/03/2014 22:32:46
+Editing Time   : 4 min
+Units          : thou (precision 0)
+
+
+Checking integrity of Schematic and Pcb designs in project "Interlocks"
+=======================================================================
+
+
+End Of Report.
