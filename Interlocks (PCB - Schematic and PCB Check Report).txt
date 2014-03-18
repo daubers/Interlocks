@@ -2,13 +2,12 @@ Schematic and PCB Check Report
 ------------------------------
 
 Report File    : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks (PCB - Schematic and PCB Check Report).txt
-Report Written : Friday, March 07, 2014
-Project Path   : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks.prj
+Report Written : Tuesday, March 18, 2014
 Design Path    : C:\Users\Matthew\Documents\PCB\Interlocks\Interlocks.pcb
 Design Title   : 
-Created        : 07/03/2014 22:32:15
-Last Saved     : 07/03/2014 22:32:46
-Editing Time   : 4 min
+Created        : 18/03/2014 20:44:37
+Last Saved     : 18/03/2014 20:52:56
+Editing Time   : 12 min
 Units          : thou (precision 0)
 
 
